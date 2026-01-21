@@ -216,7 +216,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
@@ -446,6 +446,74 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2141651114331267770, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_PokeDepth
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2141651114331267770, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_PokeWidth
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2141651114331267770, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_PokeSelectWidth
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329438, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.g
+      value: 0.8287544
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329438, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329438, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Parameters.colorGradient.key1.g
+      value: 0.35283017
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329438, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Parameters.colorGradient.key1.r
+      value: 0.88638747
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329438, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Parameters.colorGradient.m_ColorSpace
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_Reticle
+      value: 
+      objectReference: {fileID: 8748868027195207512, guid: 1e4b2839d1d4f9b438337033c5d825f2, type: 3}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key0.b
+      value: 0.12549017
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key0.g
+      value: 0.9529412
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key0.r
+      value: 0.13140956
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key1.b
+      value: 0.12549017
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key1.g
+      value: 0.9529412
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.key1.r
+      value: 0.14044733
+      objectReference: {fileID: 0}
+    - target: {fileID: 2449787133337329439, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_ValidColorGradient.m_ColorSpace
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6480925242510836759, guid: a3583e27d156c444786def6d428735d1, type: 3}
+      propertyPath: m_TurnSpeed
+      value: 45
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -453,21 +521,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
       insertIndex: -1
       addedObject: {fileID: 839144960}
-    - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 839144968}
-    - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 839144967}
-    - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 839144966}
-    - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 839144965}
-    - targetCorrespondingSourceObject: {fileID: 1767192433, guid: a3583e27d156c444786def6d428735d1, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 839144964}
   m_SourcePrefab: {fileID: 100100000, guid: a3583e27d156c444786def6d428735d1, type: 3}
 --- !u!1 &742261597
 GameObject:
@@ -648,51 +701,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!45 &839144964
-Skybox:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839144958}
-  m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
---- !u!45 &839144965
-Skybox:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839144958}
-  m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
---- !u!45 &839144966
-Skybox:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839144958}
-  m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
---- !u!45 &839144967
-Skybox:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839144958}
-  m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
---- !u!45 &839144968
-Skybox:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 839144958}
-  m_Enabled: 1
-  m_CustomSkybox: {fileID: 0}
 --- !u!20 &839144972 stripped
 Camera:
   m_CorrespondingSourceObject: {fileID: 1767192439, guid: a3583e27d156c444786def6d428735d1, type: 3}
