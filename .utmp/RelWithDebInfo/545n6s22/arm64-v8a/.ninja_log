@@ -1,0 +1,19 @@
+# ninja log v5
+189	2788	7920775780867629	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8b5e344de5df9ca
+405	2879	7920775781850741	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a78c9511233ba66a
+486	3067	7920775783785756	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2b41bcf07621b8ea
+43	2758	7920775780608292	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b7cc91ce22a1ca18
+3267	3415	7920775787325129	C:/Users/guillaume.bouyer/Documents/UNITY/Cours/xr-pedago-6.3-2026/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/545n6s22/obj/arm64-v8a/libgame.so	515dbf0bc6dd3bd8
+369	2897	7920775781997360	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bf5944eddf638f40
+109	2851	7920775781535946	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f98568ecd430adca
+214	3206	7920775785204021	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4a4918526c44e17d
+13	3266	7920775785817221	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b7d87eebd675d421
+125	2199	7920787718510184	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a78c9511233ba66a
+81	2244	7920787718976119	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b7cc91ce22a1ca18
+14	2326	7920787719832976	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f98568ecd430adca
+231	2351	7920787720108274	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8b5e344de5df9ca
+269	2504	7920787721531396	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bf5944eddf638f40
+309	2807	7920787724410087	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2b41bcf07621b8ea
+150	3050	7920787726976847	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4a4918526c44e17d
+54	3084	7920787727315968	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b7d87eebd675d421
+3085	3401	7920787730562364	C:/Users/guillaume.bouyer/Documents/UNITY/Cours/xr-pedago-6.3-2026/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/545n6s22/obj/arm64-v8a/libgame.so	515dbf0bc6dd3bd8

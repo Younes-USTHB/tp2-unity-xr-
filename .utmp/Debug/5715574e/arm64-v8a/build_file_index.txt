@@ -1,0 +1,2 @@
+C:\Users\guillaume.bouyer\Documents\UNITY\Cours\xr-pedago-6.3-2026\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.VRTemplate\gradle-project\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\guillaume.bouyer\Documents\UNITY\Cours\xr-pedago-6.3-2026\Library\PramData\AndroidApplicationController\Cache\com.DefaultCompany.VRTemplate\gradle-project\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
