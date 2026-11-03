@@ -1,0 +1,12 @@
+1-
+
+Il n’y a aucune différence entre les deux (en terme de résultat) , les deux méthodes calculent la distance euclidienne entre deux positions dans l’espace 3D
+- Vector3.Distance(posA, posB): calcule directement la distance entre les deux positions.
+- (posA - posB).magnitude : calcule d’abord le vecteur qui sépare les deux positions, puis sa longueur.
+la 1ere méthode est plus lisible
+
+2-
+Vector3.sqrMagnitude calcule le carré de la longueur d'un vecteur, sans effectuer de racine carrée
+on fait cette vérification if ((posA - posB).sqrMagnitude < seuil * seuil)
+on évite la fonction racine carrée car c'est une opération lourde pour le CPU car c'est basé sur les DL (développements limités)
+

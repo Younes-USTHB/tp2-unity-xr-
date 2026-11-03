@@ -1,0 +1,13 @@
+1-
+Pour déterminer l'angle entre deux vecteurs, nous utilisons le produit scalaire et les normes des vecteurs.
+
+2-
+on utilise TextMeshPro parce qu'on a besoin d'afficher du texte directement dans l'environnement 3D de la VR
+UI Text affiche du texte dans une interface utilisateur (Canvas), généralement en 2D
+TextMeshPro crée du texte 3D positionnable et orientable dans la scène
+
+3-
+Avec 1000 objets, le programme nécessite davantage de calculs à chaque frame, notamment pour mesurer les distances 
+et identifier l'objet le plus proche. ça va baisser le nombre d'images par seconde (FPS) et rendre
+les interactions moins fluides. Il faudrait donc optimiser le programme en utilisant sqrMagnitude et en limitant les calculs
+aux objets proches du contrôleur.

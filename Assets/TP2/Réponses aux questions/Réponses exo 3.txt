@@ -1,0 +1,9 @@
+1-
+La position locale du panneau reste constante, tandis que sa position globale change en fonction 
+des déplacements de la main gauche. Cela s'explique par le fait que le panneau est un 
+enfant du contrôleur donc sa position locale est relative à son parent, alors que sa position globale dépend
+de celle-ci dans la scène.
+
+2-
+Le panneau suit la rotation de la main tout en conservant sa rotation et sa position locales. 
+Sa position globale change également, car il tourne avec son parent.

@@ -66,6 +66,7 @@ public class ProximityDetector : MonoBehaviour
         rayon.enabled = false;
     }
 
+    // Update is called once per frame
     private void Update()
     {
         float distanceMinimale = float.MaxValue;
