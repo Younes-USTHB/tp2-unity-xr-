@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/TP1/TP1.unity
     guid: 53d15bd548119d848a04cc42345287f6
   - enabled: 0
-    path: Assets/Samples/XR Interaction Toolkit/3.3.1/Starter Assets/DemoScene.unity
+    path: Assets/Samples/XR Interaction Toolkit/3.7.0/Starter Assets/DemoScene.unity
     guid: 319dafa5c80f29f428dc1e0d03f04177
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6e36cebc45b6f8649b4b3835e7d8e76f, type: 2}
