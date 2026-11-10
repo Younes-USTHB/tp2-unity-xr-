@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Anchor
   - Target
+  - Cible
+  - Projectile
   layers:
   - Default
   - TransparentFX
